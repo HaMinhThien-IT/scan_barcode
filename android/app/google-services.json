@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726420508598",
+    "project_id": "scan-barcode-ec4b2",
+    "storage_bucket": "scan-barcode-ec4b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726420508598:android:b293c06d925ee1b1067b17",
+        "android_client_info": {
+          "package_name": "com.prod.scan_barcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ooBeuUhUQPk3BPMPPoCk9Qwmo4mMWSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726420508598:android:010c3c022a5b73d6067b17",
+        "android_client_info": {
+          "package_name": "com.prod.scan_barcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ooBeuUhUQPk3BPMPPoCk9Qwmo4mMWSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
